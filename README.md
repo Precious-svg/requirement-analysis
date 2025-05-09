@@ -5,3 +5,7 @@ Describes software development lifecycle
 
 ## Why is Requirement Analysis Important
 **1. Foundation of the design and development**: The analysis and documentation of user needs and crucila feature in simple clear and easily understanble terms serve as the pattern and foundation on which the design of the product is built. This helps to reduce the risk or totally eliminate the need to revise and redo the design at a later stage.
+
+**2. Reduces the risks if bugs and errors**: Proper requirement analysis helps to identify errors, constraints and mission functionality early in the stage. It also helps to prevent working against the scope provided. This helps to reduce the cost incurred with late stage revisions and corrections.
+
+**3. Stakeholders collaboration and satisfaction**: This facilitates communication between stakeholders and promtes alignment by making sure that everyone agrees on what the product is meant  to do. Thereby ensuring that user needs are met and that stakeholders are satisfied with the outcome. 
