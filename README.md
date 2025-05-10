@@ -18,18 +18,23 @@ This involves a series of steps that maps out and documents wha the key stakehol
 
 -***Requirement Gathering***: 
   -This is the very first step and it involves extensive data research and compiltaion. Information is gotten from the stakeholders, users, users and market research.
+
 -***Requirement Elicitation***: 
    -Uses data gathering and research methods such as surveys and interviews to gather more detailed and implicit requirments.
    -This aims and clarifying expectations beyond the surface level.
+   
 -***Requirement Documentation***:
    -This involves structruring th einformation and requirements gathered into a traceable and formal documenation such as user stories or software requirement specifications.
    -This ensures clear, traceable and consistent communication between memebers involved in the project.
+   
 -***Requirement Analysis and Modeling***:
     -This involves analysis and reviewing the documentation to identify for any gaps, redundancy or conflicts.
     -Using modeling techniques to visualise and better understand system relationship and behaviours.
+    
 -***Requirement Validation***:
     -Here the requirements are reviewed with the stakeholders to validate is accuracy, completeness and feasibility.
     -This aims at ensuring that the document truly reflects what is needed and within the constraints.
+
 
 ## Types of Requirements
 
