@@ -58,3 +58,13 @@ This involves a series of steps that maps out and documents wha the key stakehol
  ***What Are Use Case Diagrams?***
   Use case diagrams are a type of Unified Modeling Language (UML) diagram that visually represent the interactions between users (actors) and a system. They provide a high-level 
   overview of the system's functionalities and how different users engage with them. Each use case illustrates a specific goal or task that an actor aims to achieve within the system.
+
+ *** Benefits of Use Case Diagrams ***
+ 
+- Clarify System Requirements: They help in identifying and defining the functional requirements of the system by illustrating user interactions.
+
+- Enhance Communication: Serve as a communication tool between stakeholders, developers, and users to ensure a shared understanding of system functionalities.
+
+- Aid in System Design: Provide a foundation for designing the system architecture and user interfaces by outlining key interactions.
+
+- Support Testing and Validation: Assist in creating test cases by highlighting the expected behaviors and interactions within the system.
