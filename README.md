@@ -53,3 +53,5 @@ This involves a series of steps that maps out and documents wha the key stakehol
 - Scalability: The application must support up to 10,000 concurrent users without performance degradation.
 - Usability: The interface should be intuitive and responsive, with mobile and desktop compatibility.
 - Security: All data must be encrypted in transit and at rest, and user sessions should automatically expire after 15 minutes of inactivity.
+
+## Use Case Diagrams
