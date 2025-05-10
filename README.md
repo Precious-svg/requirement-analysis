@@ -27,7 +27,7 @@ This involves a series of steps that maps out and documents wha the key stakehol
    - This involves structruring th einformation and requirements gathered into a traceable and formal documenation such as user stories or software requirement specifications.
    - This ensures clear, traceable and consistent communication between memebers involved in the project.
    
--***Requirement Analysis and Modeling***:
+- ***Requirement Analysis and Modeling***:
     - This involves analysis and reviewing the documentation to identify for any gaps, redundancy or conflicts.
     - Using modeling techniques to visualise and better understand system relationship and behaviours.
     
