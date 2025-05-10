@@ -56,15 +56,28 @@ This involves a series of steps that maps out and documents wha the key stakehol
 
 ## Use Case Diagrams
  ***What Are Use Case Diagrams?***
-  Use case diagrams are a type of Unified Modeling Language (UML) diagram that visually represent the interactions between users (actors) and a system. They provide a high-level 
-  overview of the system's functionalities and how different users engage with them. Each use case illustrates a specific goal or task that an actor aims to achieve within the system.
+      Use case diagrams are a type of Unified Modeling Language (UML) diagram that visually represent the interactions between users (actors) and a system. They provide a high-level 
+      overview of the system's functionalities and how different users engage with them. Each use case illustrates a specific goal or task that an actor aims to achieve within the 
+      system.
 
- *** Benefits of Use Case Diagrams ***
+ ***Benefits of Use Case Diagrams***
  
-- Clarify System Requirements: They help in identifying and defining the functional requirements of the system by illustrating user interactions.
+   - Clarify System Requirements: They help in identifying and defining the functional requirements of the system by illustrating user interactions.
 
-- Enhance Communication: Serve as a communication tool between stakeholders, developers, and users to ensure a shared understanding of system functionalities.
+   - Enhance Communication: Serve as a communication tool between stakeholders, developers, and users to ensure a shared understanding of system functionalities.
 
-- Aid in System Design: Provide a foundation for designing the system architecture and user interfaces by outlining key interactions.
+   - Aid in System Design: Provide a foundation for designing the system architecture and user interfaces by outlining key interactions.
 
-- Support Testing and Validation: Assist in creating test cases by highlighting the expected behaviors and interactions within the system.
+   - Support Testing and Validation: Assist in creating test cases by highlighting the expected behaviors and interactions within the system.
+
+##Acceptance Criteria
+ ***Importance of Accepatnce criteria***: 
+    Acceptance requirement is the criteria that a product was meet to be accepte by stakeholders, this is usualluy defiend during the requirement analysis phase.
+    It is important because it reduce sthe rsik of scope creep, it serves as the basis on which test can be carried out to determine if the product behavse as expected.
+
+ ###Example of Acceptance Crietria for the Checkout feature in a booking managememt system###
+  - User must be logged in to proceed to payment.
+  - The checkout page should show a summary of the booking information.
+  - The system should allow users to select payment method such as debit, credit or apple pay.
+  - On successful payment and transaction, a confirmation mail with the receipt should be sent to the user email.
+  - If payment ad tarnsaction is successfull or did not go through the page should display this information appropraitely.
