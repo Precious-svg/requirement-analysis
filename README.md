@@ -42,4 +42,14 @@ This involves a series of steps that maps out and documents wha the key stakehol
 
 #### ***Examples of Functional Requirements***
 
--
+- User Authentication: The system must allow users to register, log in, and log out securely.
+- Booking Creation: Users should be able to create a new booking by selecting available time slots, services, and resources (e.g., rooms or equipment).
+- View Bookings: Users and administrators must be able to view upcoming and past bookings.
+- Admin Dashboard: Administrators should be able to manage user accounts, review all bookings, and generate usage reports.
+
+### ***Examples of Non-Functional Requirements***
+
+- Performance: The system should process booking requests within 2 seconds under normal load conditions.
+- Scalability: The application must support up to 10,000 concurrent users without performance degradation.
+- Usability: The interface should be intuitive and responsive, with mobile and desktop compatibility.
+- Security: All data must be encrypted in transit and at rest, and user sessions should automatically expire after 15 minutes of inactivity.
