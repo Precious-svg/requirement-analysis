@@ -55,3 +55,6 @@ This involves a series of steps that maps out and documents wha the key stakehol
 - Security: All data must be encrypted in transit and at rest, and user sessions should automatically expire after 15 minutes of inactivity.
 
 ## Use Case Diagrams
+ ***What Are Use Case Diagrams?***
+  Use case diagrams are a type of Unified Modeling Language (UML) diagram that visually represent the interactions between users (actors) and a system. They provide a high-level 
+  overview of the system's functionalities and how different users engage with them. Each use case illustrates a specific goal or task that an actor aims to achieve within the system.
