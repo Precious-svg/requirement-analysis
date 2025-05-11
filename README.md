@@ -72,7 +72,22 @@ This involves a series of steps that maps out and documents wha the key stakehol
 
    - Support Testing and Validation: Assist in creating test cases by highlighting the expected behaviors and interactions within the system.
 
-##Acceptance Criteria
+   ### Use Case Diagram
+   The following diagram illustrates a booking system. It consists of two main actors ***Users*** and ***Admin*** who interact with various features ***Use case*** of the booking system.
+
+   ***Actors***
+    - **Users**: Search the listings, make a booking and view booking status.
+    - **Admin**: Approve or cancel bookings, manages listing.
+
+   ***Use Cases***
+     - Search Listings
+     - Make a booking
+     - View booking status
+     - Manage Listing
+     - Approve or cancel bookings
+
+## Acceptance Criteria
+
  ***Importance of Accepatnce criteria***: 
     Acceptance requirement is the criteria that a product was meet to be accepte by stakeholders, this is usualluy defiend during the requirement analysis phase.
     It is important because it reduce sthe rsik of scope creep, it serves as the basis on which test can be carried out to determine if the product behavse as expected.
