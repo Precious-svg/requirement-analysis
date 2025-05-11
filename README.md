@@ -81,3 +81,5 @@ This involves a series of steps that maps out and documents wha the key stakehol
   - The system should allow users to select payment method such as debit, credit or apple pay.
   - On successful payment and transaction, a confirmation mail with the receipt should be sent to the user email.
   - If payment ad tarnsaction is successfull or did not go through the page should display this information appropraitely.
+
+    To be c
