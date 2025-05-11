@@ -63,6 +63,8 @@ This involves a series of steps that maps out and documents wha the key stakehol
       system.
  ###Image:
  ![UC Diagram](file:///Users/preciousogwezhi/Downloads/alx-booking-uc.png)
+
+ 
  ***Benefits of Use Case Diagrams***
  
    - Clarify System Requirements: They help in identifying and defining the functional requirements of the system by illustrating user interactions.
