@@ -77,11 +77,11 @@ This involves a series of steps that maps out and documents wha the key stakehol
     Acceptance requirement is the criteria that a product was meet to be accepte by stakeholders, this is usualluy defiend during the requirement analysis phase.
     It is important because it reduce sthe rsik of scope creep, it serves as the basis on which test can be carried out to determine if the product behavse as expected.
 
- ###Example of Acceptance Crietria for the Checkout feature in a booking managememt system###
+ ### Example of Acceptance Crietria for the Checkout feature in a booking managememt system###
   - User must be logged in to proceed to payment.
   - The checkout page should show a summary of the booking information.
   - The system should allow users to select payment method such as debit, credit or apple pay.
   - On successful payment and transaction, a confirmation mail with the receipt should be sent to the user email.
   - If payment ad tarnsaction is successfull or did not go through the page should display this information appropraitely.
 
-    To be c
+   
