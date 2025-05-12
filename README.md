@@ -62,7 +62,7 @@ This involves a series of steps that maps out and documents wha the key stakehol
       overview of the system's functionalities and how different users engage with them. Each use case illustrates a specific goal or task that an actor aims to achieve within the 
       system.
  ###Image:
- ![UC Diagram](file:///Users/preciousogwezhi/Downloads/alx-booking-uc.png)
+ ![Use Case Diagram](alx-booking-uc.png)
 
  
  ***Benefits of Use Case Diagrams***
